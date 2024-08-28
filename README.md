@@ -1,6 +1,6 @@
-# Anchor Movie Review Program
+# Anchor Student Intro Program
 
-This is the Anchor version of the Movie Review Program from the [Solana Course](https://github.com/Unboxed-Software/solana-course).
+This is the Anchor version of the Student Intro Program from the [Solana Course](https://solana.com/developers/courses/onchain-development/intro-to-anchor).
 
 ## Requirements
 
